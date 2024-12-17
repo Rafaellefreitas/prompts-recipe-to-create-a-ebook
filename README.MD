@@ -4,7 +4,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-a href="https://1drv.ms/b/c/b1c356941f7c62d0/EXBATP6blyxOuhFgQa2IxC0BzLy6y0PzNCoSdfleN_JpNA"View PDF now"> 📕Clique aqui para ler</a>
+https://1drv.ms/b/c/b1c356941f7c62d0/EXBATP6blyxOuhFgQa2IxC0BzLy6y0PzNCoSdfleN_JpNA
 
 ## 💻 Tecnologias utilizadas no projeto
 
