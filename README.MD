@@ -10,7 +10,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint]
+- [PowerPoint] (https://apps.apple.com/br/app/microsoft-powerpoint/id586449534)
 
 ## 🧠 Prompts
 
