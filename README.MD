@@ -4,13 +4,13 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<https://1drv.ms/b/c/b1c356941f7c62d0/EXBATP6blyxOuhFgQa2IxC0BzLy6y0PzNCoSdfleN_JpNA> 📕Clique aqui para ler</a>
+<a https://1drv.ms/b/c/b1c356941f7c62d0/EXBATP6blyxOuhFgQa2IxC0BzLy6y0PzNCoSdfleN_JpNA> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint] (https://apps.apple.com/br/app/microsoft-powerpoint/id586449534)
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
 
