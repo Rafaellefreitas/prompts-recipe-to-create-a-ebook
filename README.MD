@@ -20,7 +20,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  |  Crie um título de um ebook sobre o tema de uso indiscriminado de remédios controlados, o ebookk é do nicho de psicologia e o subnicho é saúde mental nos dias de hoje, o título deve ser épico e curto, e tenha uma temática de psicanálise e freud no título, me liste 5 variações de títulos
-                                                       |
+                                          
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
 | conteúdo | Faça um texto para ebook , com foco no uso indiscriminado de remédios controlados nos tempos modernos, listando as principais situações em que isso ocorre, os motivos com exemplos e como combater esse cenário na visão da Psicanálise de Freud {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
